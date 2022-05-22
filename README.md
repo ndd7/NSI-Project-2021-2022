@@ -66,4 +66,4 @@ Lien de l'environnement IDE de Python en ligne: https://replit.com/join/lqrqvuwv
 - Flèche basse: '↓' --> S'accroupir
 
 ✅Pour interagir avec l'environnement:
-- Touche f ou e: 'o' ou 'p' --> Interagir (avec marchand ou autre)
+- Touche f ou e: 'o' ou 'm' --> Interagir (avec marchand ou autre)
