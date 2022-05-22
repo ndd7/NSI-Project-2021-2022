@@ -65,6 +65,5 @@ Lien de l'environnement IDE de Python en ligne: https://replit.com/join/lqrqvuwv
 - Barre d'Espace: ' ' --> Sauter (On pourra peut-être utiliser '↑' pour sauter)
 - Flèche basse: '↓' --> S'accroupir
 
-❌Pour interagir avec l'environnement:
-- Touche f ou e: 'f' ou 'e' --> Interagir (avec marchand ou autre)
-- Clique gauche de souris: 'LMB' --> Attaquer (LMB = Left Mouse Button = Boutton de Souris Gauche)
+✅Pour interagir avec l'environnement:
+- Touche f ou e: 'o' ou 'p' --> Interagir (avec marchand ou autre)
