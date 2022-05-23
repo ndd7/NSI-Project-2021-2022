@@ -24,8 +24,8 @@ win = pygame.display.set_mode(((DISPLAY_W, DISPLAY_H)))
 picture = pygame.transform.scale(background, (DISPLAY_W, DISPLAY_H))
 tile_size = 42  #Taille des tiles (carreaux) pour les niveaux
 maplen = map_list[0]
-Map_Change = 0
-heart = 6
+Map_Change = 18
+heart = 7
 merch_font =  pygame.font.Font(None, 26)
 power_font =  pygame.font.Font(None, 38)
 click = False
@@ -410,7 +410,7 @@ class Level:  # creation du niveau avec toutes les variables qui permet de faire
                     self.back_list.append(pygame.Rect(x, y + 15, 1, 1)) 
                     
                 if cell == 'M': #création du marchand
-                    merchant = Merchant((x-75, y-34), tile_size, 23, 23)
+                    merchant = Merchant((x-110, y-58), tile_size, 23, 23)
                     self.merchant.add(merchant)
                     self.M_x = x
                     self.M_y = y
